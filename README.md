@@ -1,7 +1,7 @@
 # .NETCONF2025MILANO
 .NET Conference Milano 2025 Samples 
 
-Contenuto:<b>
+Contenuto:
 Presentazione NetConference2025.pdf<p>
 Presentazione NetConference2025.pptx<p>
 Wisej3BackgroundTasks.zip  - Gestione delle operazioni in background in Wisej.NET<p>
